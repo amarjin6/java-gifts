@@ -17,9 +17,9 @@ public class Task_3 {
 
         try {
             CheckValues.checkParams(a, b, h);
-            double[][] arr = Function.calculate(a,b,h);
+            double[][] arr = Function.calculate(a, b, h);
             PrintTable.printArray(arr);
-        }catch (IllegalArgumentException e) {
+        } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
         }
     }

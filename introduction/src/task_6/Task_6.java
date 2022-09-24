@@ -17,8 +17,8 @@ public class Task_6 {
 
         try {
             int[][] matrix = Matrix.fillMatrix(array);
-            for(int i= 0; i< matrix.length; i++)
-                System.out.print(matrix[i]+ " ");
+            for (int i = 0; i < matrix.length; i++)
+                System.out.print(matrix[i] + " ");
 
         }catch( IllegalArgumentException e) {
             System.out.println( e.getMessage() );

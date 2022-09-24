@@ -4,7 +4,7 @@ public class Ball {
     public String colour;
     public int weight;
 
-    public Ball(String colour, int weight){
+    public Ball(String colour, int weight) {
         if (weight <= 0) {
             throw new IllegalArgumentException("Weight can't be negative");
         }
