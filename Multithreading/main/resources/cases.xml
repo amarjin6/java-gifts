@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Alexander</firstName>
+        <lastName>amarjin6</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Admin</firstName>
+        <lastName>Admin</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Tomas</firstName>
+        <lastName>Acevedo</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Perry</firstName>
+        <lastName>Rogers</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Monica</firstName>
+        <lastName>Morgan</lastName>
+    </case>
+</cases>
