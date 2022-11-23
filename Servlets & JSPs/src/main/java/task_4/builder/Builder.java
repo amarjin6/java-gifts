@@ -1,6 +1,6 @@
 package task_4.builder;
 
-import by.bsuir.wt.vlad.tasks.fourth.exception.RepositoryException;
+import task_4.exception.RepositoryException;
 
 import java.sql.ResultSet;
 

@@ -1,6 +1,6 @@
 package task_4.controller.command;
 
-import by.bsuir.wt.vlad.tasks.fourth.exception.ServiceException;
+import task_4.exception.ServiceException;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
